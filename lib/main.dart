@@ -3,7 +3,6 @@ import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'settings.dart';
 import 'digimon_list.dart';
-import 'poke_list.dart';
 import 'models/theme_mode.dart';
 import 'models/pokemon.dart';
 import 'models/digimon.dart';

@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'package:cached_network_image/cached_network_image.dart';
-import 'package:digimon_book/const/digimonapi.dart';
+import 'package:digimon_zukan/const/digimonapi.dart';
 import 'package:flutter/material.dart';
 import 'digimon_detail.dart';
 import 'models/digimon.dart';
