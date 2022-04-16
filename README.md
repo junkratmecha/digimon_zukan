@@ -1,6 +1,7 @@
-# digimon_zukan
+# デジモン図鑑
 
-デジモン図鑑
+https://play.google.com/store/apps/details?id=com.junkratmecha.digimon_fan_zukan
+デジモンのファンブックです、1000体以上のデータが見られ、ブックには一覧・詳細・お気に入りの機能があります。今後は検索など新たな機能も実装予定。
 
 # プライバシーポリシー
 第三者に個人を特定できる情報を提供することはありません。
